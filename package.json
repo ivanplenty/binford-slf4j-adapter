@@ -6,7 +6,7 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ivanplenty/binford-logger.git"
+    "url": "https://github.com/ivanplenty/binford-slf4j-adapter.git"
   },
   "keywords": [
     "binford",
